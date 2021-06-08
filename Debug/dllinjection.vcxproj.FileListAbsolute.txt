@@ -1,0 +1,2 @@
+C:\Users\ADMIN\source\repos\dllinjection\Debug\dllinjection.exe
+C:\Users\ADMIN\source\repos\dllinjection\Debug\dllinjection.pdb
